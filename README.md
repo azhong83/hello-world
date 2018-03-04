@@ -1,2 +1,6 @@
 # hello-world
 my test
+嵌入式linux 开发，从今天开始，您好，世界！
+hello world!I'm azhong83.I like open source,I like linux...
+my web site: http://hjxt.wicp.net:8338 ;http://hjxt.vicp.net:8338;http://hjxt.wicp.net:4437/wordpress
+all these sites are based on arm SOC CPU.I will study linux with ARM CPU.START...
